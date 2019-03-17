@@ -1,0 +1,26 @@
+[
+  {"goodsid":1,
+   "info":"東格 京选 NP761 便签纸/便签本/便利贴/百事贴/易事贴 (76×76mm) 4色400张",
+   "price1":6.90,
+   "price2":12.00,
+   "img":"imgs/miaosha1.png"
+  },
+  {"goodsid":2,
+   "info":"京造 金属签字笔 中性笔0.5mm油墨 星曜黑 溢彩金 星空灰3支混装",
+   "price1":69.00,
+   "price2":99.00,
+   "img":"imgs/miaosha2.png"
+   },
+  {"goodsid":3,
+   "info":"京造 锂电螺丝刀套装 精密电动螺丝刀 银色18批头 一件 ",
+   "price1":89.00,
+   "price2":279.00,
+   "img":"imgs/miaosha3.png"
+   },
+  {"goodsid":4,
+   "info":"维达(Vinda) 抽纸 细韧3层150抽软抽*3包纸巾(大规格) 雏菊淡香",
+   "price1":13.00,
+   "price2":35.00,
+   "img":"imgs/miaosha4.png"
+  }
+]

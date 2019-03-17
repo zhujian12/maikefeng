@@ -1,0 +1,31 @@
+.margin{width:1000px;margin:0 auto;}
+
+#header{height:80px;background:#fff;}
+#header .left{float:left;}
+#header .left a{display:block;}
+#header .left a .logo{height:80px;width:120px;}
+
+#header .right{float:right;font:14px/20px "";color:#aaa;margin-top:30px;}
+#header .right span{display:inline-block;vertical-align: middle;}
+#header .right img{width:40px;height:40px;}
+#header .right a{color:blue;}
+#header .right a:hover{color:red;}
+
+#register{height:680px;background:url(../imgs3/register.png) repeat-x;}
+#register .center{width:600px;margin:0 auto;padding-top:100px;}
+#register .center p{height:40px;font:18px/40px "";color:red;}
+#register .center ul{}
+#register .center ul li{height:52px;font:14px/52px "";color:#666;}
+#register .center ul li span{margin-right:30px;}
+#register .center ul li input{width:360px;height:28px;}
+#register .center .btn{width:292px;height:28px;background:red;border:none;font:16px/28px "";
+margin-top:15px;color:#fff;margin-left:40px;}
+#register .center span.te{font:14px/52px "";color:red;margin-left:10px;}
+
+#footer{height:186px;background:#f5f5fc;}
+#footer h3{font:12px/48px "";padding-top:16px;text-align:center;color:#666769;}
+#footer p{font:12px/12px "";padding-bottom:4px;text-align:center;color:#666769;}
+#footer .last{font:12px/42px "";color:#666769;text-align:center;}
+#footer .imgs{text-align:center;}
+#footer .imgs a{display:inline-block;}
+#footer .imgs img{margin-left:8px;}
